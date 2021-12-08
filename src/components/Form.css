@@ -1,0 +1,16 @@
+.form{
+    width: 25%;
+    margin: auto;
+}
+
+.userInputRender{
+    font-weight: bold;
+}
+.inputContainers{
+    height: 2em;
+    width: 30em;
+    margin:0.5em;
+}
+.form{
+    margin-top: 2em;
+}
